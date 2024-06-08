@@ -1,0 +1,18 @@
+- mkdir random
+- masuk cmd
+- git clone
+- masuk ke dir clone
+- mkdir backend
+- cd backend
+- npm init -y
+- npm install express
+- make file server.js
+- run the server.js (node server.js)
+
+- Out from backend
+- mkdir frontend (no capital letter)
+- cd frontend
+- npm install -g @vue/cli
+- vue create .
+- vue add router
+- npm install axios
